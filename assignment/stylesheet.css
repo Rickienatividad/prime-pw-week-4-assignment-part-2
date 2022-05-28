@@ -1,5 +1,6 @@
 #main{
     height: 100vh;
+    background-color: #e9d3d3;
 }
 #header {
     font-size: xx-small;
@@ -16,6 +17,7 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    border-radius: 50%;
 }
 #vehicle_info h3{
     background: linear-gradient(#f71707, #7f4902);
